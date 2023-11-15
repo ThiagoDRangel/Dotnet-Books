@@ -1,0 +1,36 @@
+# Bytecode files
+*.dll
+*.exe
+*.pdb
+*.cache
+*.runtimeconfig.json
+
+# Build folders
+bin/
+obj/
+out/
+
+# Configuration files
+appsettings*.json
+
+# Visual Studio files
+*.csproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code files
+.vscode/
+
+# Temporary files
+*.[Tt]mp
+*.[Bb]ak
+*.[Ll]og
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
